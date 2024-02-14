@@ -2,7 +2,7 @@
 
 This was my second project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned in SQL.
 
-Loom Video Screencast can be found 
+Please find my queries <a href='https://github.com/simrandulai/Data_projects_TripleTen/blob/main/Zuber/my_queries.md' target=_blank>.<u>here</u>.</a> 
 
 ### Data
 A database with info on taxi rides in Chicago provided by TripleTen:
