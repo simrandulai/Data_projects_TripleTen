@@ -1,4 +1,4 @@
-# File Title: raw_transaction_log
+# File Title: raw_transaction_logs
 
 This was my third project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Business Analytics.
 
