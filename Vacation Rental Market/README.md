@@ -1,4 +1,4 @@
-# File Title: Vacation Rental Market
+# File Title: nyc_airbnb_data
 
 This was my first project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I had learned for Advanced Spreadsheets.
 
