@@ -593,8 +593,6 @@ ORDER BY trips.trip_id;
 | 2017-11-11 20:00:00   | Good                | 1500             |
   </details>
 
-  
-````
 **Results:**
   
   | weather_conditions | avg_duration_seconds |
