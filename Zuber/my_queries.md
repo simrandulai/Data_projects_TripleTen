@@ -592,28 +592,8 @@ ORDER BY trips.trip_id;
 | 2017-11-11 15:00:00   | Good                | 2400             |
 | 2017-11-11 20:00:00   | Good                | 1500             |
   </details>
+
   
-**7.** Compute the average duration for the different weather conditions
-```sql
-SELECT 
-    weather_conditions, 
-    AVG(duration_seconds) AS avg_duration_seconds
-FROM
-    (SELECT
-        trips.start_ts,
-        CASE WHEN weather_records.description LIKE '%rain%' 
-        OR weather_records.description LIKE '%storm%' THEN 'Bad'
-        ELSE 'Good' END AS weather_conditions,
-        trips.duration_seconds
-    FROM trips
-    INNER JOIN weather_records ON weather_records.ts = trips.start_ts
-    WHERE
-        trips.pickup_location_id = 50
-        AND trips.dropoff_location_id = 63
-        AND EXTRACT(DOW FROM trips.start_ts) = 6
-    ORDER BY trips.trip_id
-    ) AS trip_details
-   GROUP BY weather_conditions;
 ````
 **Results:**
   
