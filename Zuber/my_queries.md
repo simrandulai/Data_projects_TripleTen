@@ -594,8 +594,3 @@ ORDER BY trips.trip_id;
   </details>
 
 **Results:**
-  
-  | weather_conditions | avg_duration_seconds |
-  | -------------| --------------|
-  | Bad	| 2427.21 |
-  | Good |	1999.68 |
