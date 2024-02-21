@@ -28,14 +28,14 @@ The data was one Google spreadsheet file provided by TripleTen
 - The provided data format (columns, data types) is correct and consistent.
 
 ### Process:
-I first explored, filtered, and cleaned the data.
-Then I created built a conversion funnel.
-I prepared data for cohort analysis.
-Calculated retention rates.
-Lastly I finalized formatting and documentation for the client's readability.
+- I first explored, filtered, and cleaned the data.
+- Then I created built a conversion funnel.
+- I prepared data for cohort analysis.
+- Calculated retention rates.
+- Lastly I finalized formatting and documentation for the client's readability.
 
 ### Findings:
 | Results | Synopsis |
 | :-----------: | ----------- |
-| Conversion Funnel | The total conversion rate from view to purchase was 10%. While the view-to-shopping cart conversion rate was 29% | 
-| Retention Rates | Retention rates for the 2020-09 cohort group after the first month were only 13%; by the 4th month, it was down to 3% | 
+| Conversion Funnel | Conversion from clicks to purchases is at 10% resulting in a large loss. | 
+| Retention Rates | Retention rates for the 2020-09 cohort group after the first month were only 12.5%; by the 4th month, it was down to 3%. | 
