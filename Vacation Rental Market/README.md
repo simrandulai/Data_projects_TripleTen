@@ -25,10 +25,10 @@ The data was one Google spreadsheet file provided by TripleTen:
 - Extremely low-priced listings are below $100 and super luxury listings are above $1000 and both were filtered from the analysis.
 
 ### Process:
-I first explored, filtered, and cleaned the data.
-Then I created aggregations and pivot tables to determine the type of properties that should be targeted.
-I performed calculations, pivot tables and charts to determine occupancy and estimated revenue.
-Lastly I finalized formatting for the client's readability.
+- I first explored, filtered, and cleaned the data.
+- Then I created aggregations and pivot tables to determine the type of properties that should be targeted.
+- I performed calculations, pivot tables and charts to determine occupancy and estimated revenue.
+- Lastly I finalized formatting for the client's readability.
 
 ### Findings:
 1. The top 10 attractive neighborhoods for vacation rentals are as follows: Hell's Kitchen, Lower East Side, Harlem, Midtown, Upper West Side, Chelsea, East Village, East Harlem, West Village, Nolita.
