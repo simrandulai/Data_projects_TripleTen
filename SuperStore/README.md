@@ -7,9 +7,9 @@ Tableau Public Share Link: <a href='https://public.tableau.com/app/profile/simra
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [DataSet - SuperStore.xls](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/SuperStore%20Consult/DataSet%20-%20SuperStore.xls) | The original data file provided by TripleTen that was used in this projects analysis. |
+| 1 | [DataSet - SuperStore.xls](https://github.com/simrandulai/Data_projects_TripleTen/blob/main/SuperStore/Dataset-%20Superstore.xls) | The original data file provided by TripleTen that was used in this projects analysis. |
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 3 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/SuperStore%20Consult/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 3 | [https://github.com/simrandulai/Data_projects_TripleTen/blob/main/SuperStore/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
 | Section Title | Description |
 | ----------- |----------- |
