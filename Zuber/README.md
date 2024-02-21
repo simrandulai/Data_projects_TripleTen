@@ -41,12 +41,12 @@ A database with info on taxi rides in Chicago provided by TripleTen:
 - record_id is the Primary Key for the weather_records table.
 
 ### Process:
-Analyzed taxi rides by company for specific dates, sorting by trip count.
-Analyzed rides for companies containing specific keywords, grouping by company name.
-Retrieved neighborhood IDs for O'Hare and Loop.
-Categorized weather conditions by hour.
-Retrieved Saturday rides from Loop to O'Hare, including weather and duration.
-Sorted the results.
+- Analyzed taxi rides by company for specific dates, sorting by trip count.
+- Analyzed rides for companies containing specific keywords, grouping by company name.
+- Retrieved neighborhood IDs for O'Hare and Loop.
+- Categorized weather conditions by hour.
+- Retrieved Saturday rides from Loop to O'Hare, including weather and duration.
+- Sorted the results.
 
 ### Findings:
 - The taxi company "Flash Cab" had the highest number of taxi rides for Nov. 15th-16th, 2017 at 19,558 trips.
