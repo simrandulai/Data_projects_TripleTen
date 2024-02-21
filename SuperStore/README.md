@@ -2,7 +2,7 @@
 
 This was my fourth project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Tableau Visualization.
 
-Tableau Public Share Link: <https://public.tableau.com/app/profile/simran.dulai/viz/SuperStore_17084789395350/Avg_ProfitAvg_Return' </u>.</a> 
+Tableau Public Share Link: 'https://public.tableau.com/app/profile/simran.dulai/viz/SuperStore_17084789395350/Avg_ProfitAvg_Return' </u></a> 
 
 ### Table of Contents
 | File Number | Title | Description |
