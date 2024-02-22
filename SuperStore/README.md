@@ -27,8 +27,8 @@ The data was one Excel spreadsheet file provided by TripleTen:
     - `'returns'`: details all fields for each returned item
 
 ### Description:
-- 8 page Tableau Visulization
-- Includes data analysis, charts, and dashboard.
+- 11 page Tableau Visualization
+- Includes data analysis, charts, and dashboards.
 - Purpose was to consultant company by reviewing the store’s operations and increase its profitability to avoid bankruptcy.
 
 ### Assumptions:
