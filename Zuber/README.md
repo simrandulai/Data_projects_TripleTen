@@ -14,7 +14,7 @@ Please find my queries <a href='https://github.com/simrandulai/Data_projects_Tri
 
 | Section Title | Description |
 | ----------- |----------- |
-| DATA | Describes the source of data, included files, tables, and fields. |
+| Data | Describes the source of data, included files, tables, and fields. |
 | Description | Describes the final products purpose, software, format, and included visuals. |
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | Process | A general outline of how this project formed from start to finish. |
