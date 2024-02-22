@@ -4,6 +4,20 @@ This was my first project I worked on in the TripleTen Business Intelligence Ana
 
 Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1p6cVEDzgZiiKLJV2daDAEzRK0GeIFd5e_yQdiyztLv8/edit?usp=sharing' target=_blank><u>here</u>.</a>
 
+### Table of Contents
+| File Number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 2 | [Requirements.txt](https://github.com/simrandulai/Data_projects_TripleTen/blob/main/Vacation%20Rental%20Market/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+
+| Section Title | Description |
+| ----------- |----------- |
+| Data | Describes the source of data, included files, tables, and fields. |
+| Description | Describes the final products purpose, software, format, and included visuals. |
+| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| Process | A general outline of how this project formed from start to finish. |
+| Findings | Insights learned from the data analysis. |
+
 ### Data
 The data was one Google spreadsheet file provided by TripleTen:
 - `'nyc_airbnb_data.csv'`: each row corresponds to one listing on AirBnB in September 2022
