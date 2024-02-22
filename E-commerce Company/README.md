@@ -4,6 +4,20 @@ This was my third project that I worked on in the TripleTen Business Intelligenc
 
 Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/12OlLfOpWH8Co5wP5Rg8amqC_-RfFzxTbLFGziJyYyuU/edit?usp=sharing' target=_blank><u>here</u>.</a>
 
+### Table of Contents
+| File Number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 2 | [Requirements.txt](https://github.com/simrandulai/Data_projects_TripleTen/blob/main/E-commerce%20Company/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+
+| Section Title | Description |
+| ----------- |----------- |
+| Data | Describes the source of data, included files, tables, and fields. |
+| Description | Describes the final products purpose, software, format, and included visuals. |
+| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| Process | A general outline of how this project formed from start to finish. |
+| Findings | Insights learned from the data analysis. |
+
 ### Data
 The data was one Google spreadsheet file provided by TripleTen
 - `'Business Analyst Project.csv'`: raw transaction logs
