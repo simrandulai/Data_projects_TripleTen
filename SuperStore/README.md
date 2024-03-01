@@ -29,7 +29,7 @@ The data was one Excel spreadsheet file provided by TripleTen:
 ### Description:
 - 11 page Tableau Visualization
 - Includes data analysis, charts, and dashboards.
-- Purpose was to consultant company by reviewing the store’s operations and increase its profitability to avoid bankruptcy.
+- Purpose was to consult the company by reviewing the store’s operations and increase its profitability to avoid bankruptcy.
 
 ### Assumptions:
 - Profits from sales are totaling in the negative.	
