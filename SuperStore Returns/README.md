@@ -7,9 +7,9 @@ Tableau Public Share Link: <a href='https://public.tableau.com/app/profile/simra
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [DataSet - SuperStore.xls](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/SuperStore%20Returns/DataSet%20-%20SuperStore.xls) | The original data file provided by TripleTen that was used in this projects analysis. |
+| 1 | [DataSet - SuperStore.xls](https://github.com/simrandulai/Data_projects_TripleTen/blob/main/SuperStore%20Returns/Dataset-%20Superstore.xls) | The original data file provided by TripleTen that was used in this projects analysis. |
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 3 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/SuperStore%20Returns/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 3 | [Requirements.txt](https://github.com/simrandulai/Data_projects_TripleTen/blob/main/SuperStore%20Returns/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
 | Section Title | Description |
 | ----------- |----------- |
@@ -50,6 +50,3 @@ Lastly I created Tableau story to present my finding.
 5. Each state had different rates of return for different sub-categories.
 6. Orders made throughout the year had higher return rates depending on the month.
 7. Return rates do not correlate with the amount of product sold, some of the lowest selling products had a return rate of 100%.
-
-### Notes for Reviewer:
-As requested I provided 3 potential LoFi mockups and a template image of the dashboard with empty containers in the ZIP file and a stories draft in the Tableau file.
