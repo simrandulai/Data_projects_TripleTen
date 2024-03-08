@@ -2,13 +2,14 @@
 
 This was my 6th project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Power BI.
 
-Loom Video Overview can be found <a href='https://www.loom.com/share/88359c245ed3425aa004cd2e5a1be3b3?sid=6c7a8349-16a9-47d6-a641-b0d51febcb10' target=_blank><u>here</u>.</a>
-
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 2 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Shopify/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 2 | [P1.png](https://github.com/simrandulai/Data_projects_TripleTen/blob/main/Shopify/P1.png) | A .png file showing Part 1 of my project. |
+| 3 | [P2.png](https://github.com/simrandulai/Data_projects_TripleTen/blob/main/Shopify/P2.png) | A .png file showing Part 2 of my project. |
+| 4 | [P3.png](https://github.com/simrandulai/Data_projects_TripleTen/blob/main/Shopify/P3.png) | A .png file showing Part 3 of my project. |
+| 5 | [Requirements.txt](https://github.com/simrandulai/Data_projects_TripleTen/blob/main/Shopify/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
 | Section Title | Description |
 | ----------- |----------- |
