@@ -1,4 +1,4 @@
-# File Title: ShopifyPBI
+# File Title: Shopify.pbix
 
 This was my 6th project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Power BI.
 
