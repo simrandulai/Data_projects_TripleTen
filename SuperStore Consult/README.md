@@ -1,4 +1,4 @@
-# File Title: SuperStore Database
+# File Title: SuperStoreReturns_TB
 
 This was my fourth project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Tableau Visualization.
 
