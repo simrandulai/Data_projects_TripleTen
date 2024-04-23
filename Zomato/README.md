@@ -54,3 +54,6 @@ Lastly, I presented my findings in a report as my 3rd and final submission piece
 3. Women are close behind, but there are significantly more customers who are single than married.
 4. Zomato’s customers usually have small family sizes (2-3), educated, but unemployed.
 5. Employed customers tend to be below middle class (50,000 INR/yr).
+6. The Loyal Customer Segmentation has the most number of customers with At-risk as a close second.
+7. Customers in the At-risk segmentation bring in the most revenue.
+
