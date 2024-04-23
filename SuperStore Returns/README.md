@@ -27,7 +27,7 @@ The data was one Excel spreadsheet file provided by TripleTen:
     - `'returns'`: details all fields for each returned item
 
 ### Description:
-- 9 page Tableau Visulization and Presentation
+- 9 page Tableau Visualization and Presentation
 - Includes data analysis, charts, dashboard, and stories
 - Purpose was to prepare an analysis for the CEO of Superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders
 
