@@ -7,12 +7,9 @@ Tableau Public Share Link: <a href='https://public.tableau.com/app/profile/simra
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Raw Data for CSA](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Zomato/Raw%20Data%20for%20CSA) | Folder containing 2 .xlxs files, one for each table used in the analysis. |
-| 2 | [Final Project Report.pdf](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zomato/Final%20Project%20Report.pdf) | A .pdf file with with the written report for this project. |
-| 2 | [Final.pdf](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zomato/Final.pdf) | A .pdf file with with the written report for this project. |
-| 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 4 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zomato/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
-| 5 | [Zomato.TB.pbix](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Zomato/Zomato.TB.pbix) | Power BI save file for easy access to specific DAX, calculations, and measures. |
+| 1 | [Final Project Report.pdf](https://github.com/simrandulai/Data_projects_TripleTen/blob/main/Zomato/Project_Report.pdf) | A .pdf file with with the written report for this project. |
+| 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 3 | [Requirements.txt](https://github.com/simrandulai/Data_projects_TripleTen/blob/main/Zomato/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
 | Section Title | Description |
 | ----------- |----------- |
