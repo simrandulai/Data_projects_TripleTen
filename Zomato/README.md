@@ -57,3 +57,6 @@ Lastly, I presented my findings in a report as my 3rd and final submission piece
 6. The Loyal Customer Segmentation has the most number of customers with At-risk as a close second.
 7. Customers in the At-risk segmentation bring in the most revenue.
 
+### Actionable Recommendations:
+Based on the insights from the dashboard analysis, suggested actions can be summarized as retain, engage, monetize, re-engage, reconnect, or welcome. Specific recommendations are based on RFM segments. 
+
