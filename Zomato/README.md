@@ -20,20 +20,16 @@ Tableau Public Share Link: <a href='https://public.tableau.com/app/profile/simra
 | Findings | Insights learned from the data analysis. |
 
 ### Data
-TripleTen provided an archived file of 5 seperate excel files from the mock company Zomato. I used 2 for this project.
+TripleTen provided an archived file of 5 seperate excel files from the company Zomato. I used 2 for this project.
 - `'Zomato data.zip'`: Compressed exel files provided by team lead
     - `'orders'`: All orders made from the menu by all customers at all restaurants between Oct. 4th 2017 and June 26th 2020.
     - `'users'`: All customers who completed orders during the designated time frame and their demographic information.
-- `'Measures Table'`: Created table for analysis and to maintain integrity of original files. Housing all used measures.
-- `'Calendar'`: Created table for analysis and to maintain integrity of original files. Housing all date information for potential calculations.
-- `'Segmentations'`: Created table for analysis and to maintain integrity of original files. Housing all segments and RFM scores needed for incusion.
-- `'RFM Table'`: Created table for analysis and to maintain integrity of original files. Housing all RFM calculations.
 
 ### Description:
 - This was a Customer Segmentation Analysis.
 - 19 page Tableau Visualization
 - Includes KPI cards, Pie charts, bar charts, RFM analysis, and dashboards.
-- Purpose was to successfully complete the Zomato onboarding project to showcase analytical skills to the mock company.
+- Purpose was to successfully complete the Zomato onboarding project to showcase analytical skills to the company.
 
 ### Assumptions:
 - The provided test datasets are accurate, complete, and consistent.
