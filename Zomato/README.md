@@ -7,7 +7,7 @@ Tableau Public Share Link: <a href='https://public.tableau.com/app/profile/simra
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Final Project Report.pdf](https://github.com/simrandulai/Data_projects_TripleTen/blob/main/Zomato/Project_Report.pdf) | A .pdf file with with the written report for this project. |
+| 1 | [Final Project Report.pdf](https://github.com/simrandulai/Data_projects_TripleTen/blob/main/Zomato/Final_Project_Report.pdf) | A .pdf file with with the written report for this project. |
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 3 | [Requirements.txt](https://github.com/simrandulai/Data_projects_TripleTen/blob/main/Zomato/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
