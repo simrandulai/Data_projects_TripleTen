@@ -18,6 +18,7 @@ Tableau Public Share Link: <a href='https://public.tableau.com/app/profile/simra
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | Process | A general outline of how this project formed from start to finish. |
 | Findings | Insights learned from the data analysis. |
+| Actionable Reccomendations | Reccomendations made for business impact. |
 
 ### Data
 TripleTen provided an archived file of 5 seperate excel files from the company Zomato. I used 2 for this project.
