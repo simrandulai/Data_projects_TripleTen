@@ -18,6 +18,7 @@ LinkedIn post <a href='https://www.linkedin.com/feed/update/urn:li:activity:7184
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | Process | A general outline of how this project formed from start to finish. |
 | Findings | Insights learned from the data analysis. |
+| Actionable Reccomendations | Reccomendations made for business impact. |
 | Results | List of accomplishments and skills practiced in this project. |
 
 ### Data
