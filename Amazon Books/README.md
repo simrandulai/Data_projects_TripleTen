@@ -3,6 +3,7 @@
 This was my Code Pudding Competition project that I worked on during the TripleTen Business Intelligence Analytics Program. It was a group project designed to showcase my Tableau, Storytelling, and Collaboration skills. I'm proud to say that our team ended up placing 1st! 🥇
 
 Tableau Public link <a href='https://public.tableau.com/app/profile/kseniya.gormash/viz/AmazonBooksPerformance_17117416448700/AuthorImpact' target=_blank><u>here</u>.</a>
+
 LinkedIn post <a href='https://www.linkedin.com/feed/update/urn:li:activity:7184218661593784321/' target=_blank><u>here</u>.</a>
 
 ### Table of Contents
