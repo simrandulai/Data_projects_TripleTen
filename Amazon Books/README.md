@@ -9,7 +9,7 @@ LinkedIn post <a href='https://www.linkedin.com/feed/update/urn:li:activity:7184
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | README.md | This current page, with all relevant information about the project, just past the Table of contents. |
-| 2 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Animation%20Movies/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen and The Pudding. |
+| 2 | [Requirements.txt](https://github.com/simrandulai/Data_projects_TripleTen/blob/main/Amazon%20Books/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen and The Pudding. |
 
 | Section Title | Description |
 | ----------- |----------- |
