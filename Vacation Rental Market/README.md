@@ -41,7 +41,7 @@ The data was one Google spreadsheet file provided by TripleTen:
 ### Process:
 - I first explored, filtered, and cleaned the data.
 - Then I created aggregations and pivot tables to determine the type of properties that should be targeted.
-- I performed calculations, pivot tables and charts to determine occupancy and estimated revenue.
+- I performed calculations, pivot tables and charts to determine occupancy rates and estimated revenue.
 - Lastly I finalized formatting for the client's readability.
 
 ### Findings:
