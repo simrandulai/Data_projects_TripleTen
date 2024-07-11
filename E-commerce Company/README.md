@@ -43,7 +43,7 @@ The data was one Google spreadsheet file provided by TripleTen
 
 ### Process:
 - I first explored, filtered, and cleaned the data.
-- Then I created built a conversion funnel.
+- Then I built a conversion funnel.
 - I prepared data for cohort analysis.
 - Calculated retention rates.
 - Lastly I finalized formatting and documentation for the client's readability.
