@@ -2,7 +2,7 @@
 
 This was my first project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I had learned for Advanced Spreadsheets.
 
-Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1p6cVEDzgZiiKLJV2daDAEzRK0GeIFd5e_yQdiyztLv8/edit?usp=sharing' target=_blank><u>here</u>.</a>
+Google Spreadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1p6cVEDzgZiiKLJV2daDAEzRK0GeIFd5e_yQdiyztLv8/edit?usp=sharing' target=_blank><u>here</u>.</a>
 
 ### Table of Contents
 | File Number | Title | Description |
